@@ -1,23 +1,23 @@
 # Site navigation links
-- title: Home
+- title: "Home"
   url: /
   
-- title: Projects
+- title: "Projects"
   url: /projects/
   
-- title: Posts
+- title: "Posts"
   url: /Posts/
 
-- title: Research
+- title: "Research"
   url: /research/
 
-- title: Publications
+- title: "Publications"
   url: /publications/
 
-- title: CV
+- title: "CV"
   url: /files/cv.pdf
 
-- title: Contact
+- title: "Contact"
   url: /contact/
   
   
