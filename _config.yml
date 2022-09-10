@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Thibeau Wouters"
-  avatar           : "profielfoto_nu_zoom_3.jpg"
-  bio              : "Physicist, master student artificial intelligence. Looking for a PhD position far and wide."
-  location         : "Leuven"
+  name             : "Ajinkya Bhandare"
+  avatar           : "https://avatars.githubusercontent.com/u/88282332?v=4"
+  bio              : "Machine learning practitionar and cyber security enthusiast"
+  location         : "India,Maharshtra"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ThibeauWouters"
+  github           : "ajinkyabhandare"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "thibeauwouters"
+  linkedin         : "ajinkyabhandare"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -178,7 +178,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  research:
     output: true
     permalink: /:collection/:path/
   portfolio:
