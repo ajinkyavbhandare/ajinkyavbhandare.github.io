@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Kristian López Vargas"
+title: "Ajinkya Bhandare"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,8 +9,9 @@ redirect_from:
 ---
 
 
-Assistant professor of economics at the University of California, Santa Cruz.
-My work is in microeconomics, behavioral economics and experimental economics.
+Hi!
+
+I am a b-tech student at the deogiri institute of engineering an management studies. My research interests lie in the areas of multimodal machine learning, computer vision, speech recognition and natural language processing.
 
 
 ## [Research](research)
