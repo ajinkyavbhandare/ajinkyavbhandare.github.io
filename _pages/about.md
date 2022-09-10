@@ -14,7 +14,7 @@ Hi!
 I am a b-tech student at the deogiri institute of engineering an management studies. My research interests lie in the areas of multimodal machine learning, computer vision, speech recognition and natural language processing.
 
 
-
+----
 
 <h3 align="center">Updates</h3>
 
