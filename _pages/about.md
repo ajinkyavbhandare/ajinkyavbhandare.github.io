@@ -1,11 +1,9 @@
 ---
-permalink: /
-title: "Ajinkya Bhandare"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+layout: page
+title: 
+tags: [ajinkya, bhandare, home, cmu, speech recognition, machine learning, natural language processing]
+modified: 2018-11-27T20:53:07.573882-04:00
+comments: false
 ---
 
 
@@ -14,11 +12,9 @@ Hi!
 I am a b-tech student at the deogiri institute of engineering an management studies. My research interests lie in the areas of multimodal machine learning, computer vision, speech recognition and natural language processing.
 
 
-## [Research](research)
+----
 
-## [Teaching](teaching)
-
-## [CV](cv)
+<h3 align="center">Updates</h3>
 
 
 <!--
