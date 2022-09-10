@@ -1,9 +1,11 @@
 ---
-layout: page
-title: 
-tags: [ajinkya, bhandare, home, cmu, speech recognition, machine learning, natural language processing]
-modified: 2018-11-27T20:53:07.573882-04:00
-comments: false
+permalink: /
+title: "
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 
