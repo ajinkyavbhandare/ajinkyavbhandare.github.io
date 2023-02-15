@@ -1,3 +1,13 @@
+---
+title: 'Machine Learning Roadmap'
+date: 2023-02-15
+permalink: /posts/2013/08/blog-post-2/
+tags:
+  - MAchine Learning Roadmap
+  - Machine Learning for beginners
+  - Deep Learning
+---
+
 ## Introduction
 
   Machine learning is a rapidly growing field that has the potential to revolutionize a wide range of industries. Whether you're a beginner looking to get started in machine learning or an experienced practitioner looking to deepen your knowledge, this roadmap is designed to help you navigate the vast array of resources available.
